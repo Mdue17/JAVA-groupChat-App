@@ -1,6 +1,7 @@
 # Java Group Chat Application
 
-This is a simple group chat application built with Java.
+This is a small project I embarked on after my introduction to Java. It's a simple group chat application built with Java, where I learn about socket programming.
+
 
 ## Features
 
